@@ -1,24 +1,10 @@
-# README
+# Building an API, completed Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Set Up
 
-Things you may want to cover:
+1. `git clone <ssh key>`
+2. cd building_internal_apis_2210
+3. bundle install
+4. rails db:{create,migrate}
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+When you run `bundle exec rspec`, you should have one routing error. 
