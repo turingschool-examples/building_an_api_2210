@@ -3,7 +3,7 @@
 ## Set Up
 
 1. `git clone <ssh key>`
-2. `cd building_internal_apis_2210`
+2. `cd building_an_api_2210`
 3. `bundle install`
 4. `rails db:{create,migrate}`
 
